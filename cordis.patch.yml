@@ -1,0 +1,6 @@
+# dsh-usage-card — sidebar usage card (7d/30d tokens, spend, remaining balance).
+# Host half registers GET /usage-card/overview; the package also declares a
+# dsh.client web bundle that paints the card above the settings button.
+- insert:
+    - id: usage-card
+      name: dsh-usage-card
