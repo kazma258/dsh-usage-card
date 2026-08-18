@@ -2,6 +2,8 @@
 
 DSH（DeepSeek Harness）Web 介面插件：在左側欄「設置」按鈕上方渲染用量卡片，顯示 7d / 30d token 用量與消費、剩餘額度。可切換官方平台數據或本地估算。
 
+![側欄用量卡片：官方 7d/30d tokens、消費與剩餘額度](docs/sidebar-preview.png)
+
 **相容**：DeepSeek Harness `0.1.x` 的 **web** profile（Host + Web UI）。需要 `webServer`、`credentials`，以及 client 的 `slots` / `locale` / `sessions`。
 
 ## 安裝
